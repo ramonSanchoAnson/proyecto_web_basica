@@ -1,0 +1,11 @@
+header,
+footer {
+    background-color: orange;
+      overflow:hidden;
+}
+.logo{
+  width: 60px;
+  height: auto;
+  margin: 5px;
+  float: left;
+}
